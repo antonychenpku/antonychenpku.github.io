@@ -29,6 +29,11 @@ format: frontpage
 	{% endif %}
 </div><!-- /.row -->
 
+{% if page.teaser %}
+<p class="teaser">
+    {{ page.teaser }}
+</p>
+{% endif %}
 
 
 {% comment %}
