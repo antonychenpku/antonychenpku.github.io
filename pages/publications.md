@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : 
+title               : ""
 meta_title          : "CHENLAB"
 subheadline         : 
 teaser              : 
