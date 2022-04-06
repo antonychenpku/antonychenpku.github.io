@@ -8,6 +8,7 @@ permalink           : "/publications/"
 ---
 
 ## JOURNAL PUBLICATIONS
+<br/>
 
 32\. Wang, R., Chen, F., Chen, Q., Wan, X., Shi, M., Chen, A.K., Ma, Z., Li, G., Wang, M., Ying, Y., Liu Q, Li, H., Zhang X., Ma, J., Zhong, J., Chen, M., Zhang, M., Zhang, Y., Chen, Y., Zhu, D. MyoD is a 3D genome structure organizer for muscle cell identity. ***Nat Commun.*** 2022 Jan 11;13(1):205.
 
@@ -106,6 +107,7 @@ permalink           : "/publications/"
 
 
 ## BOOK CHAPTERS
+<br/>
 
 10\. Wu X., Ying Y., Mao S., Krueger C.J., **Chen A.K.\*** (2020) Live-Cell Imaging of Genomic Loci Using CRISPR/Molecular Beacon Hybrid Systems. In: Heinlein M. (eds) RNA Tagging. Methods in Molecular Biology, vol 2166. Humana, New York, NY. pp 357-372.
 
@@ -136,8 +138,8 @@ permalink           : "/publications/"
 
 1\. Thorek, D.L.J., Czupryna, J., **Chen, A.K.**, Tsourkas, A.* (2006) Molecular Imaging of Cancer with Superparamagnetic Iron Oxide Nanoparticles. In Cancer Imaging, edited by M.A. Hayat. Elsevier Science/Academic Press, pp 85-95.
 
-## Patent
-
+## PATENTS
+<br/>
 
 * Andrew Tsourkas and Antony Chen. Quantitative Molecular Probes, 2007. US Application Number: 12/282.612; International Application Number: PCT/US07/064099.
 
