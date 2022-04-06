@@ -105,22 +105,36 @@ permalink           : "/publications/"
 1\. **Chen, A.K.**, Latz, M.I., and Frangos, J.A.* The Use of Dinoflagellate Bioluminescence to Characterize Cell Stimulation in Bioreactors.” ***Biotechnol Bioeng.*** 2003; 83(1): 93-103.
 
 
-## Book Section
+## BOOK CHAPTERS
+
+10\. Wu X., Ying Y., Mao S., Krueger C.J., **Chen A.K.\*** (2020) Live-Cell Imaging of Genomic Loci Using CRISPR/Molecular Beacon Hybrid Systems. In: Heinlein M. (eds) RNA Tagging. Methods in Molecular Biology, vol 2166. Humana, New York, NY. pp 357-372.
 
 
-* Wu X., Ying Y., Mao S., Krueger C.J., Chen A.K.\* (2020) Live-Cell Imaging of Genomic Loci Using CRISPR/Molecular Beacon Hybrid Systems. In: Heinlein M. (eds) RNA Tagging. Methods in Molecular Biology, vol 2166. Humana, New York, NY. pp 357-372.
+9\. Mao S., Ying Y., Wu X., **Chen A.K.\*** (2020) Delivering Molecular Beacons via an Electroporation-Based Approach Enables Live-Cell Imaging of Single RNA Transcripts and Genomic Loci. In: Heise T. (eds) RNA Chaperones. Methods in Molecular Biology, vol 2106. Humana, New York, NY. pp 241-252.
 
-* Mao S., Ying Y., Wu X., Chen A.K.\* (2020) Delivering Molecular Beacons via an Electroporation-Based Approach Enables Live-Cell Imaging of Single RNA Transcripts and Genomic Loci. In: Heise T. (eds) RNA Chaperones. Methods in Molecular Biology, vol 2106. Humana, New York, NY. pp 241-252.
 
-* Ying Y., Mao S., Krueger C.J., Chen A.K.\* (2019) Live-Cell Imaging of Long Noncoding RNAs Using Molecular Beacons. In: Shav-Tal Y. (eds) Imaging Gene Expression. Methods in Molecular Biology, vol 2038. Humana, New York, NY. pp 21-33.
+8\. Ying Y., Mao S., Krueger C.J., **Chen A.K.\*** (2019) Live-Cell Imaging of Long Noncoding RNAs Using Molecular Beacons. In: Shav-Tal Y. (eds) Imaging Gene Expression. Methods in Molecular Biology, vol 2038. Humana, New York, NY. pp 21-33. 
 
-* Chen, M., Mao, S., Wu, X., Mao, S., Ma., Z., Yang, Y., Krueger, C.J. and Chen, A.K.\* (2019) Single-Molecule Analysis of RNA Dynamics in Living Cells Using Molecular Beacons. In: Wajapeyee, Narendra, Gupta, Romi (eds) Epitranscriptomics. Methods in Molecular Biology, vol 1870. Humana Press, New York, NY. pp 23-39.
 
-* Chen M., Yang Y., Krueger C.J., Chen, A.K.\* (2018) Optimizing Molecular Beacons for Intracellular Analysis of RNA. In: Gaspar I. (eds) RNA Detection. Methods in Molecular Biology, vol 1649. Humana Press, New York, NY. pp 243-257.
+7\. Chen, M., Mao, S., Wu, X., Mao, S., Ma., Z., Yang, Y., Krueger, C.J. and **Chen, A.K.\*** (2019) Single-Molecule Analysis of RNA Dynamics in Living Cells Using Molecular Beacons. In: Wajapeyee, Narendra, Gupta, Romi (eds) Epitranscriptomics. Methods in Molecular Biology, vol 1870. Humana Press, New York, NY.
 
-* Yang Y., Chen M., Krueger C.J., Tsourkas A., Chen, A.K.\* (2018) Quantifying Gene Expression in Living Cells with Ratiometric Bimolecular Beacons. In: Gaspar I. (eds) RNA Detection. Methods in Molecular Biology, vol 1649. Humana Press, New York, NY. pp 231-242.
 
-* Chen, A.K., Rhee, W.J., Bao G. and Tsourkas, A.\* (2011) Delivery of Molecular Beacons for Live-cell Imaging and Analysis of RNA, RNA Detection and Visualization, Jeffrey E. Gerst, Humana Press, pp 159-174.
+6\. Chen M., Yang Y., Krueger C.J., **Chen, A.K.\*** (2018) Optimizing Molecular Beacons for Intracellular Analysis of RNA. In: Gaspar I. (eds) RNA Detection. Methods in Molecular Biology, vol 1649. Humana Press, New York, NY. pp 243-257.
+
+
+5\. Yang Y., Chen M., Krueger C.J., Tsourkas A., **Chen, A.K.\*** (2018) Quantifying Gene Expression in Living Cells with Ratiometric Bimolecular Beacons. In: Gaspar I. (eds) RNA Detection. Methods in Molecular Biology, vol 1649. Humana Press, New York, NY. pp 231-242.
+
+
+4\. Crayton, S.H., **Chen, A.K.**, Liu, J.F., Higbee-Dempsey, E.M., Huang, C.-H., Tsourkas, A. and Cheng Z. (2017) Molecular Imaging In Comprehensive Biomaterials II, edited by Ducheyne, P., Grainger, D.W., Healy, K.E., Hutmacher, D.W., Kirkpatrick, C.J., Elsevier Inc., pp 424-466. 
+
+
+3\. **Chen, A.K**., Rhee, W.J., Bao G. and Tsourkas, A.* （2011）Delivery of Molecular Beacons for Live-cell Imaging and Analysis of RNA， RNA Detection and Visualization, Jeffrey E. Gerst, Humana Press, pp 159-174.
+
+
+2\. Crayton, S.H., **Chen, A.K**., Cheng, Z., Tsourkas, A.* (2010) Molecular Imaging In Comprehensive Biomaterials, edited by Ducheyne, P., Healy, K., Hutmacher, D., Kirkpatrick, C.J., Elsevier Inc., pp 305-328. 
+
+
+1\. Thorek, D.L.J., Czupryna, J., **Chen, A.K.**, Tsourkas, A.* (2006) Molecular Imaging of Cancer with Superparamagnetic Iron Oxide Nanoparticles. In Cancer Imaging, edited by M.A. Hayat. Elsevier Science/Academic Press, pp 85-95.
 
 ## Patent
 
