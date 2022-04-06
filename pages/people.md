@@ -33,9 +33,9 @@ permalink           : "/people/"
 <ul>
 <li>2019.08-Present Associate Professor, Department of Biomedical Engineering, College of Engineering, Peking University</li>
 <li>2013.04-2019.07 Assistant Professor, Department of Biomedical Engineering, College of Engineering, Peking University</li>
-<li>2010-2013  Postdoc; National Institutes of Health;  Jennifer Lippincott-Schwartz’s lab</li>
-<li>2010-2012  Postdoc; National Institute of Standards and Technology; Anne Plant’s lab</li>
-<li>2009-2010  Postdoc; University of Pennsylvania; Andrew Tsourkas�? lab</li>
+<li>2010-2013  Postdoc; National Institutes of Health;  Jennifer Lippincott-Schwartz's lab</li>
+<li>2010-2012  Postdoc; National Institute of Standards and Technology; Anne Plant's lab</li>
+<li>2009-2010  Postdoc; University of Pennsylvania; Andrew Tsourkas' lab</li>
 
 </ul>
 <p><strong>Selected Honors</strong></p>
