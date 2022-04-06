@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "RNA nanostructure"
 title:  "Rational design of self-assembled RNA nanostructures for HIV-1 virus assembly blockade"
-teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
+teaser: " Here, we develop self-assembled RNA nanostructures that can inhibit HIV-1 virus assembly, achieved through hybridization of multiple artificial small RNAs with a stem–loop structure (STL) that we identify as a prominent ligand of Gag that can inhibit virus particle production via STL-Gag interactions."
 categories:
     - publication
 tags:
@@ -15,16 +15,6 @@ image:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
-First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
-<!--more-->
-
-~~~
-header: no
-image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
 
 
 #### Abstract:
