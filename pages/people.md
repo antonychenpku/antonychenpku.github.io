@@ -91,31 +91,31 @@ permalink           : "/people/"
 ## Graduated
 
 ##### Xiaotian Wu, Ph.D.
-###### Dec. 2015 �? Jun. 2021
+###### Dec. 2015 to Jun. 2021
 ***Current Position:*** Canon Medical Systems (China) Co., Ltd.
 
 -----
 
 ##### Na Qu, Ph.D.
-###### Sept. 2015 �? Jun. 2021
+###### Sept. 2015 to Jun. 2021
 ***Current Position:*** Zybio Inc.
 
 -----
 
 ##### Yantao Yang, Ph.D.
-###### Sept. 2015 �? Jun. 2021
+###### Sept. 2015 to Jun. 2021
 ***Current Position:*** Huawei Technologies Co., Ltd.
 
 -----
 
 ##### Zhao Ma, M.S.
-###### Sept. 2014 �? Jun. 2020
+###### Sept. 2014 to Jun. 2020
 ***Current Position:*** Beijing Municipal Health Commission
 
 -----
 
 ##### Mingming Chen, M.S.
-###### Sept. 2014 �? Jun. 2018
+###### Sept. 2014 to Jun. 2018
 ***Current Position:*** RIkagaku KENkyusho/Institute of Physical and Chemical Research
 
 -----
