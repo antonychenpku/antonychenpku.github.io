@@ -20,6 +20,7 @@ permalink           : "/people/"
   <div class="large-8 columns">
             <h3>Antony K. Chen, Ph.D., Associate Professor</h3>
 <p><em>Department of Biomedical Engineering, College of Future Technology, Peking University</em></p>
+<p>³Â¿ïÊ±£¬²©Ê¿£¬ÑÐ¾¿Ô±£¬³¤Æ¸¸±½ÌÊÚ</p>
 <p><strong>Research Interests</strong></p>
 <p>DNA/RNA Imaging Probes, CRISPR gene editing/labeling technology, Live-cell Imaging, DNA-RNA-Protein Interactions, Virus-Host Interactions, Super-resolution Imaging, Molecular and Nanomedicine</p>
 <p><strong>Education</strong></p>
@@ -35,7 +36,7 @@ permalink           : "/people/"
 <li>2013.04-2019.07 Assistant Professor, Department of Biomedical Engineering, College of Engineering, Peking University</li>
 <li>2010-2013  Postdoc; National Institutes of Health;  Jennifer Lippincott-Schwartzâ€™s lab</li>
 <li>2010-2012  Postdoc; National Institute of Standards and Technology; Anne Plantâ€™s lab</li>
-<li>2009-2010  Postdoc; University of Pennsylvania; Andrew Tsourkasâ€™ lab</li>
+<li>2009-2010  Postdoc; University of Pennsylvania; Andrew Tsourkasâ€? lab</li>
 
 </ul>
 <p><strong>Selected Honors</strong></p>
@@ -91,31 +92,31 @@ permalink           : "/people/"
 ## Graduated
 
 ##### Xiaotian Wu, Ph.D.
-###### Dec. 2015 â€” Jun. 2021
+###### Dec. 2015 â€? Jun. 2021
 ***Current Position:*** Canon Medical Systems (China) Co., Ltd.
 
 -----
 
 ##### Na Qu, Ph.D.
-###### Sept. 2015 â€” Jun. 2021
+###### Sept. 2015 â€? Jun. 2021
 ***Current Position:*** Zybio Inc.
 
 -----
 
 ##### Yantao Yang, Ph.D.
-###### Sept. 2015 â€” Jun. 2021
+###### Sept. 2015 â€? Jun. 2021
 ***Current Position:*** Huawei Technologies Co., Ltd.
 
 -----
 
 ##### Zhao Ma, M.S.
-###### Sept. 2014 â€” Jun. 2020
+###### Sept. 2014 â€? Jun. 2020
 ***Current Position:*** Beijing Municipal Health Commission
 
 -----
 
 ##### Mingming Chen, M.S.
-###### Sept. 2014 â€” Jun. 2018
+###### Sept. 2014 â€? Jun. 2018
 ***Current Position:*** RIkagaku KENkyusho/Institute of Physical and Chemical Research
 
 -----
