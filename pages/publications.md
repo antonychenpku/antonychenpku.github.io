@@ -9,7 +9,7 @@ permalink           : "/publications/"
 
 ## JOURNAL PUBLICATIONS
 
-32\. Wang R., Chen, F., Chen, Q., Wan, X., Shi, M., Chen, A.K., Ma, Z., Li, G., Wang, M., Ying, Y., Liu Q, Li, H., Zhang X, Ma, J, Zhong, J., Chen, M, Zhang MQ, Zhang Y, Chen Y, Zhu D. MyoD is a 3D genome structure organizer for muscle cell identity. ***Nat Commun.*** 2022 Jan 11;13(1):205.
+32\. Wang, R., Chen, F., Chen, Q., Wan, X., Shi, M., Chen, A.K., Ma, Z., Li, G., Wang, M., Ying, Y., Liu Q, Li, H., Zhang X., Ma, J., Zhong, J., Chen, M., Zhang, M., Zhang, Y., Chen, Y., Zhu, D. MyoD is a 3D genome structure organizer for muscle cell identity. ***Nat Commun.*** 2022 Jan 11;13(1):205.
 
 
 31\. Qu, N., Ying, Y., Qin, S., and **Chen, A.K.\*** Rational design of self-assembled RNA nanostructures for HIV-1 virus assembly blockade. ***Nucleic Acids Res.*** 2021; gkab1282 
