@@ -17,7 +17,7 @@ slogan: 'Cellular and Molecular Imaging Laboratory'
 description: '<p>Created by Yachen and Weibang with JEKYLL based on <a href="https://github.com/Phlow/feeling-responsive">Feeling Responsive</a>.</p>'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: 'Copyright © Antony Chen LAB <br/> '
+credits: 'Copyright © Antony Chen Lab <br/> '
 
 # Main author of the website
 # See > authors.yml
