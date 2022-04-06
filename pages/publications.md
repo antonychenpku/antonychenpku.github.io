@@ -155,7 +155,7 @@ permalink           : "/publications/"
 
 * Yu, X., Zhang, Y., Li, T., Ma, Z., Jia, H., Chen, Q., Zhao, Y., Zhai, L., Zhong, R., Li, C., Zou, X., Meng, J., Chen, A.K., Puri, P.L., Chen, M., Zhu, D.\* Long Non-coding RNA Linc-RAM Enhances Myogenic Differentiation by Interacting with MyoD. *Nat. Commun.* 2017; 8: 14016.
 
-* Zhao, D., Yang, Y., Qu, N., Chen, M., Ma, Z. Krueger, C.J., Behlke, M.A. and Chen, A.K.\* Single-Molecule Detection and Tracking of RNA Transcripts in Living Cells Using Phosphorothioate-Optimized 2’-O-Methyl RNA Molecular Beacons. *Biomaterials*. 2016; 100: 172-183. 
+* Zhao, D., Yang, Y., Qu, N., Chen, M., Ma, Z. Krueger, C.J., Behlke, M.A. and Chen, A.K.\* Single-Molecule Detection and Tracking of RNA Transcripts in Living Cells Using Phosphorothioate-Optimized 2�?-O-Methyl RNA Molecular Beacons. *Biomaterials*. 2016; 100: 172-183. 
 
 * Chen, A.K., Sengupta, P., Waki, K., Van Engelenburg, S., Ochiya, T., Ablan, S.D., Freed, E.O. and Lippincott-Schwartz, J.\* MicroRNA binding to the HIV-1 Gag protein inhibits Gag assembly and virus production. *Proc. Natl. Acad. Sci. U S A.*, 2014; 111(26):E2676-83.
 
@@ -169,15 +169,15 @@ permalink           : "/publications/"
 
 * Chen, A.K., Behlke, M., and Tsourkas, A.\* Subcellular Trafficking and Functionality of 2'-O-methyl and 2'-O-methy-phosphorothioate Molecular Beacons. Nucleic Acids Res. 2009; 37 (22): e149.
 
-* Chen, A.K., Cheng, Z., Behlke, M., and Tsourkas, A.\* “Assessing the Sensitivity of Commercially Available Fluorophores to the Intracellular Environment”. *Anal Chem.* 2008; 80 (19): 7437-44.
+* Chen, A.K., Cheng, Z., Behlke, M., and Tsourkas, A.\* “Assessing the Sensitivity of Commercially Available Fluorophores to the Intracellular Environment�?. *Anal Chem.* 2008; 80 (19): 7437-44.
 
-* Chen, A.K., Behlke, M., and Tsourkas, A.\* “Efficient Cytosolic Delivery of Molecular Beacon Conjugates and Flow Cytometric Analysis of Target RNA”. *Nucleic Acids Res*. 2008; 36 (12): e69.
+* Chen, A.K., Behlke, M., and Tsourkas, A.\* “Efficient Cytosolic Delivery of Molecular Beacon Conjugates and Flow Cytometric Analysis of Target RNA�?. *Nucleic Acids Res*. 2008; 36 (12): e69.
 
-* Chen, A.K., Behlke, M., and Tsourkas, A.\* “Avoiding False-Positive Signals with Nuclease-Vulnerable Molecular Beacons in Single Living Cells”. *Nucleic Acids Res.* 2007; 35 (16): e105.
+* Chen, A.K., Behlke, M., and Tsourkas, A.\* “Avoiding False-Positive Signals with Nuclease-Vulnerable Molecular Beacons in Single Living Cells�?. *Nucleic Acids Res.* 2007; 35 (16): e105.
 
-* Chen, A.K., Latz, M.I., Sobolewski, P., and Frangos, J.A.\* “Evidence for the Role of G-Proteins in Flow Stimulation of Dinoflagellate Bioluminescence.” *Am J Physiol Regul Integr Comp Physiol.* 2007; 292(5): R2020-7.
+* Chen, A.K., Latz, M.I., Sobolewski, P., and Frangos, J.A.\* “Evidence for the Role of G-Proteins in Flow Stimulation of Dinoflagellate Bioluminescence.�? *Am J Physiol Regul Integr Comp Physiol.* 2007; 292(5): R2020-7.
 
-* Chen, A.K., Latz, M.I., and Frangos, J.A.\* The Use of Dinoflagellate Bioluminescence to Characterize Cell Stimulation in Bioreactors.” *Biotechnol Bioeng.* 2003; 83(1): 93-103.
+* Chen, A.K., Latz, M.I., and Frangos, J.A.\* The Use of Dinoflagellate Bioluminescence to Characterize Cell Stimulation in Bioreactors.�? *Biotechnol Bioeng.* 2003; 83(1): 93-103.
 
 
 ## Review
