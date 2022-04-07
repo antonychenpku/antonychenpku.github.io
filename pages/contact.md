@@ -7,7 +7,7 @@ teaser              :
 permalink           : "/contact/"
 ---
 
-* **Office Address:** Yingjie Overseas Exchange Center 338E, Peking University, Beijing, China
+#### **Office Address:** Yingjie Overseas Exchange Center 338E, Peking University, Beijing, China
 
 * **Lab Address:** Integrated Science Research Center 112, Peking University, Beijing, China
 
