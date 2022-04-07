@@ -12,6 +12,7 @@ tags:
 header: no
 image:
     title: MB_review.jpg
+    thumb: MB_review.jpg
     caption: 
     caption_url: 
 ---
