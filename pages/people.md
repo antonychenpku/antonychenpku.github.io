@@ -49,6 +49,12 @@ permalink           : "/people/"
 <li>Solomon R. Pollack Award for Excellence in Graduate Bioengineering Research (Best Ph.D. Thesis)  (2009)</li>
            
 </ul>
+<p><strong>Funded Projects</strong></p>
+<ul>
+<li>2022-01 – 2026-06 干细胞命运决定过程中胞核无膜颗粒小体的结构、定位、组成成分及其动态变化研究（科技部国家重点研发计划课题） 课题负责人</li>
+<li>Solomon R. Pollack Award for Excellence in Graduate Bioengineering Research (Best Ph.D. Thesis)  (2009)</li>
+           
+</ul>
 
 
   </div>
