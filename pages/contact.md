@@ -7,7 +7,7 @@ teaser              :
 permalink           : "/contact/"
 ---
 
-* **Address:** Integrated Research Center 112, Peking University, Beijing, China
+* **Address:** Integrated Science Research Center 112, Peking University, Beijing, China
 
 * **Tel:** 010-62768343
 
