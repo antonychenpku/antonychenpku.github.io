@@ -35,12 +35,12 @@ permalink           : "/people/"
 </ul>
 <p><strong>Major Professional Experiences</strong></p>
 <ul>
-<li>2021.01-Present Associate Professor, Department of Biomedical Engineering, College of Future Technology, Peking University</li>
-<li>2019.08-2020.12 Associate Professor, Department of Biomedical Engineering, College of Engineering, Peking University</li>
-<li>2013.04-2019.07 Assistant Professor, Department of Biomedical Engineering, College of Engineering, Peking University</li>
-<li>2010-2013  Postdoc; National Institutes of Health;  Jennifer Lippincott-Schwartz's lab</li>
-<li>2010-2012  Postdoc; National Institute of Standards and Technology; Anne Plant's lab</li>
-<li>2009-2010  Postdoc; University of Pennsylvania; Andrew Tsourkas' lab</li>
+<li>2021.01 – Present Associate Professor, Department of Biomedical Engineering, College of Future Technology, Peking University</li>
+<li>2019.08 – 2020.12 Associate Professor, Department of Biomedical Engineering, College of Engineering, Peking University</li>
+<li>2013.04 – 2019.07 Assistant Professor, Department of Biomedical Engineering, College of Engineering, Peking University</li>
+<li>2010 – 2013  Postdoc; National Institutes of Health;  Jennifer Lippincott-Schwartz's lab</li>
+<li>2010 – 2012  Postdoc; National Institute of Standards and Technology; Anne Plant's lab</li>
+<li>2009 – 2010  Postdoc; University of Pennsylvania; Andrew Tsourkas' lab</li>
 
 </ul>
 <p><strong>Selected Honors</strong></p>
@@ -51,7 +51,7 @@ permalink           : "/people/"
 </ul>
 <p><strong>Funded Projects</strong></p>
 <ul>
-<li>2022-01 – 2026-06 干细胞命运决定过程中胞核无膜颗粒小体的结构、定位、组成成分及其动态变化研究（科技部国家重点研发计划课题） 课题负责人</li>
+<li>2022.01 – 2026.06 干细胞命运决定过程中胞核无膜颗粒小体的结构、定位、组成成分及其动态变化研究（科技部国家重点研发计划课题） 课题负责人</li>
 <li>2022-01 – 2025-12 活细胞中线粒体RNA实时可视化技术平台的建立和应用研究（国家自然科学基金面上项目） 课题负责人</li>
 <li>2017-01 – 2021-12 活细胞单分子成像内源RNA技术（国家自然科学基金面上项目） 课题负责人</li>
 <li>2016-07 – 2021-07 活细胞中蛋白质机器构象改变实时观测技术（科技部国家重点研发计划课题） 课题负责人</li>
@@ -107,31 +107,31 @@ permalink           : "/people/"
 ## Graduated
 
 ##### Xiaotian Wu, Ph.D.
-###### Dec. 2015 to Jun. 2021
+###### Dec. 2015 – Jun. 2021
 ***Current Position:*** Canon Medical Systems (China) Co., Ltd.
 
 -----
 
 ##### Na Qu, Ph.D.
-###### Sept. 2015 to Jun. 2021
+###### Sept. 2015 – Jun. 2021
 ***Current Position:*** Zybio Inc.
 
 -----
 
 ##### Yantao Yang, Ph.D.
-###### Sept. 2015 to Jun. 2021
+###### Sept. 2015 – Jun. 2021
 ***Current Position:*** Huawei Technologies Co., Ltd.
 
 -----
 
 ##### Zhao Ma, M.S.
-###### Sept. 2014 to Jun. 2020
+###### Sept. 2014 – Jun. 2020
 ***Current Position:*** Beijing Municipal Health Commission
 
 -----
 
 ##### Mingming Chen, M.S.
-###### Sept. 2014 to Jun. 2018
+###### Sept. 2014 – Jun. 2018
 ***Current Position:*** RIkagaku KENkyusho/Institute of Physical and Chemical Research
 
 -----
