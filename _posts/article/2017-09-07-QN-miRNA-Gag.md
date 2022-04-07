@@ -1,14 +1,14 @@
 ---
 layout: page
-subheadline:  "RNA nanostructure"
+subheadline:  "Autophagy"
 title:  "Inhibition of retroviral Gag assembly by non-silencing miRNAs promotes autophagic viral degradation"
 teaser: 
 categories:
     - publication
 tags:
-    - RNA nanostructure
-    - Protein-nucleic acid interaction
-    - HIV therapeutics
+    - microRNA
+    - Retroviral Gag protein
+    - Autophagy
 header: no
 image:
     title: QN-microRNA.jpg
