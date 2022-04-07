@@ -13,4 +13,7 @@ permalink           : "/contact/"
 
 * **E-mail:** chenak@pku.edu.cn
 
+<img src="{{ site.urlimg }}building_1008x567.jpg" alt="">
+
+
 ## *Welcome to join us!*
