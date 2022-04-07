@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "HIV Assembly"
 title:  "Roles of Gag-RNA interactions in HIV-1 virus assembly deciphered by single-molecule localization microscopy"
-teaser: "We have combined CRISPR and dual-FRET MBs to develop the CRISPR/dual-FRET MB system that can be used to measure the dynamics of non-repetitive regions of distinct genomic loci in the human genome with as few as three unique sgRNAs."
+teaser: "In contrast to the general notion that vRNA only triggers Gag assembly and is dispensable for subsequent assembly, we found that vRNA is indispensable throughout assembly, scaffolding the formation of assembly intermediates and maintaining their architectures via balancing of external forces acting on the assembly environment. "
 categories:
     - publication
 tags:
