@@ -11,8 +11,8 @@ tags:
     - Gag-RNA interaction
 header: no
 image:
-    title: YT-PNAS.jpeg
-    thumb: YT-PNAS.jpeg
+    title: YYT-PNAS.jpg
+    thumb: YYT-PNAS.jpg
     caption: 
     caption_url: 
 ---

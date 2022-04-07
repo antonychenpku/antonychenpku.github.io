@@ -79,7 +79,7 @@ permalink           : "/people/"
   <li><img src="{{ site.urlimg }}members/yc_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Yachen Ying</h5>
-            <h6 class="text-center">Graduate Student</h6>
+            <h6 class="text-center">Ph.D. Candidate</h6>
 			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
 		</p></li>
   <li><img src="{{ site.urlimg }}members/wrn_picture.png" alt="uh, Placekitten">
