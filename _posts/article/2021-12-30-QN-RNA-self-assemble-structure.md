@@ -13,7 +13,7 @@ header: no
 image:
     title: 
     thumb: QN-TB-Gag-thumb.jpg
-    homepage: QN-NAR-homepage.jpg
+    homepage: QN-NAR-homepage.tif
     caption: 
     caption_url: 
 ---
