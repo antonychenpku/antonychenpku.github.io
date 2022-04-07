@@ -20,7 +20,7 @@ permalink           : "/people/"
   <div class="large-8 columns">
             <h3>Antony K. Chen, Ph.D., Associate Professor</h3>
 <p><em>Department of Biomedical Engineering, College of Future Technology, Peking University</em></p>
-<p>Office address: Yingjie Overseas Exchange Center 338E</p>
+Office address: Yingjie Overseas Exchange Center 338E
 <p>Lab address: Integrated Research Center 112</p>
 <p>TEL: +86-10-62768343</p>
 <p>Email: chenak@pku.edu.cn</p>
