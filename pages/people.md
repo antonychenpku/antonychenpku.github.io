@@ -12,7 +12,7 @@ permalink           : "/people/"
 <div class="row">
   <div class="large-4 columns">
   	<div class="border-dotted radius b30">
-		<img src="{{ site.urlimg }}members/ac_picture.png" alt="uh, Placekitten">
+		<img src="{{ site.urlimg }}members/ac_picture.jpg" alt="uh, Placekitten">
 	</div>
   
   </div>
