@@ -9,20 +9,20 @@ header:
   image_fullwidth: header_yc.jpg
 teaser: "The Chen Lab at Peking University combines bioengineering, molecular biology, cell biology, fluorescence imaging, and nanotechnology to create novel nucleic acid-based methods for the detection and/or treatment of human diseases such as cancer and infectious diseases. Specific research interests include (i) Developing highly biostable and sensitive nucleic-acid nanodevices for intracellular analysis of RNA and chromatin dynamics that are key regulators of cellular physiology and pathogenesis; (ii) Constructing self-assembled RNA nanostructure-based therapeutics; (iii) Demystifying the role of viral and host cellular RNAs in retroviral assembly using advanced imaging techniques. Research in the Chen lab is currently supported by the National Key R&D Program of China and the National Natural Science Foundation of China.<br/><br/><strong>Interested in joining the lab?</strong><br/><br/><strong>We have opportunities for postdoctoral researchers, PhD students, and undergraduate students.</strong><br/><br/>For inquiries email: chenak@pku.edu.cn"
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "CRISPR/dCas9-based genomic labeling"
+  url: '/publication/WXT-CRISPR-MB/'
+  image: WXT-NAR.jpg
+  text: 'We have developed a novel live-cell genomic imaging platform, termed CRISPR/MB, which comprises dCas9, an MB, and an sgRNA engineered with an MB target sequence in the stem–loop 2 region, and demonstrated its capacity for quantitative, dynamic and dual-color analysis of genomic loci in human cells.'
 widget2:
   title: "RNA nanostructure-based therapeutics"
   url: '/publication/QN-RNA-self-assemble-structure/'
   image: QN-TB-Gag-thumb.jpg
   text: 'We have developed self-assembled RNA nanostructures that can inhibit HIV-1 virus assembly, achieved through hybridization of multiple artificial small RNAs with a stem–loop structure (STL) that we identify as a prominent ligand of Gag that can inhibit virus particle production via STL-Gag interactions.'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "Demystifying retroviral assembly"
+  url: '/publication/YYT-Gag-RNA/'
+  image: YYT-PNAS.jpg
+  text: 'In contrast to the general notion that vRNA only triggers Gag assembly and is dispensable for subsequent assembly, we found that vRNA is indispensable throughout assembly, scaffolding the formation of assembly intermediates and maintaining their architectures via balancing of external forces acting on the assembly environment.'
 #
 # Use the call for action to show a button on the frontpage
 #
