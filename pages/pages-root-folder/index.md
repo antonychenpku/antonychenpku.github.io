@@ -7,10 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_yc.jpg
-teaser: "The Chen Lab at Peking University combines bioengineering, molecular biology, cell biology, fluorescence imaging, and nanotechnology to create novel nucleic acid-based methods for the detection and/or treatment of human diseases such as cancer and infectious diseases. Specific research interests include (i) Developing highly biostable and sensitive nucleic-acid nanodevices for intracellular analysis of RNA and chromatin dynamics that are key regulators of cellular physiology and pathogenesis; (ii) Constructing self-assembled RNA nanostructure-based therapeutics; (iii) Demystifying the role of viral and host cellular RNAs in retroviral assembly using advanced imaging techniques. Research in the Chen lab is currently supported by the National Key R&D Program of China and the National Natural Science Foundation of China.<br/>Interested in joining the lab?<br/>We have opportunities for postdoctoral researchers, PhD students, and undergraduate students.
-
-For inquiries email: chenak AT pku.edu.cn
-"
+teaser: "The Chen Lab at Peking University combines bioengineering, molecular biology, cell biology, fluorescence imaging, and nanotechnology to create novel nucleic acid-based methods for the detection and/or treatment of human diseases such as cancer and infectious diseases. Specific research interests include (i) Developing highly biostable and sensitive nucleic-acid nanodevices for intracellular analysis of RNA and chromatin dynamics that are key regulators of cellular physiology and pathogenesis; (ii) Constructing self-assembled RNA nanostructure-based therapeutics; (iii) Demystifying the role of viral and host cellular RNAs in retroviral assembly using advanced imaging techniques. Research in the Chen lab is currently supported by the National Key R&D Program of China and the National Natural Science Foundation of China.<br/><br/><strong>Interested in joining the lab?</strong><br/><br/><strong>We have opportunities for postdoctoral researchers, PhD students, and undergraduate students.</strong><br/><br/>For inquiries email: chenak@pku.edu.cn"
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
