@@ -11,8 +11,8 @@ tags:
     - Genomic labeling
 header: no
 image:
-    title: WXT-NAR.jpeg
-    thumb: WXT-NAR.jpeg
+    title: WXT-NAR.jpg
+    thumb: WXT-NAR.jpg
     caption: 
     caption_url: 
 ---
