@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Autophagy"
 title:  "Inhibition of retroviral Gag assembly by non-silencing miRNAs promotes autophagic viral degradation"
-teaser: 
+teaser: "In this study, we demonstrated that targeting of misassembled viral complexes from the PM to lysosomes for degradation is driven by macroautophagy. The process involves p62, which potentially recognizes the endocytosed misassembled viral complexes as protein aggregates. "
 categories:
     - publication
 tags:
