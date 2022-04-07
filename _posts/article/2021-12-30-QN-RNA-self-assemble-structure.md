@@ -11,9 +11,9 @@ tags:
     - HIV therapeutics
 header: no
 image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    title: 
+    caption: 
+    caption_url: 
 ---
 
 

@@ -12,9 +12,10 @@ tags:
     - HIV-1 assembly
 header: no
 image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    title: BAC-BiFC.jpeg
+    thumb: BAC-BiFC.jpeg
+    caption: 
+    caption_url: 
 ---
 
 
