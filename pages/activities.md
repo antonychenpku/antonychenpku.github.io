@@ -19,7 +19,7 @@ permalink           : "/activities/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}2021_outing_1.jpg" alt="">
+        <img src="{{ site.urlimg }}2021_outing_11.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
