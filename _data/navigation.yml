@@ -18,6 +18,10 @@
   url: "/news/"
   side: left
 
+- title: "LAB ACTIVITIES"
+  url: "/activities/"
+  side: left
+
 - title: "CONTACT US"
   url: "/contact/"
   side: left
