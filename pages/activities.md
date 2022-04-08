@@ -1,5 +1,5 @@
 ---
-layout              : page-fullwidth
+layout              : page
 title               : "Lab outings"
 meta_title          : "CHENLAB"
 subheadline         : 
