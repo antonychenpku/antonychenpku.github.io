@@ -1,15 +1,13 @@
 ---
 layout              : page-fullwidth
-title               : "Lab activities"
+title               : "Lab outings"
 meta_title          : "CHENLAB"
 subheadline         : 
 teaser              : ""
 permalink           : "/activities/"
 ---
 
+#### 2021
 
+<img src="{{ site.urlimg }}2021_outing.jpg" alt="">
 
-<img src="{{ site.urlimg }}building_1008x567.jpg" alt="">
-
-
-### *Welcome to join us!*
