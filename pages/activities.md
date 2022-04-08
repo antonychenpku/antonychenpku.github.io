@@ -38,9 +38,13 @@ permalink           : "/activities/"
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2017-06-outing-01.jpg" alt="">
     </div><!-- /.medium-4.columns -->
-
+        
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2017-11-outing-1.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -54,6 +58,10 @@ permalink           : "/activities/"
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2016-11-outing-1.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
