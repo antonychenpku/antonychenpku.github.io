@@ -21,6 +21,11 @@ permalink           : "/activities/"
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2021_outing_11.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}2021-08-outing.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
 </div><!-- /.row -->
 
 ## 2018
@@ -28,6 +33,14 @@ permalink           : "/activities/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2018-06-outing-1.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}2018-04-outing-1.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
