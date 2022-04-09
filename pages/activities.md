@@ -16,6 +16,7 @@ permalink           : "/activities/"
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2021_outing_3.jpg" alt="">
+        <p>The 1ST PKU-CFT badminton competition</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
@@ -66,6 +67,7 @@ permalink           : "/activities/"
         
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2017-11-outing-1.jpg" alt="">
+        <p>The 15TH Chinese Biophysics Congress</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
