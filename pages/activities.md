@@ -36,6 +36,7 @@ permalink           : "/activities/"
     <div class="medium-4 columns">
         <img src="" alt="">
     </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
 
 ## 2018
 
