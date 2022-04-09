@@ -27,6 +27,7 @@ permalink           : "/activities/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2021-08-outing.jpg" alt="">
+        <p>The 19TH CHINESE BIOPHYSICS CONGRESS</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
@@ -47,6 +48,7 @@ permalink           : "/activities/"
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2018-04-outing-1.jpg" alt="">
+        <p>Invited talk by Dr. Eric O. Freed (NCI/CCR)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
@@ -77,6 +79,7 @@ permalink           : "/activities/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2016-08-outing-4-3.jpg" alt="">
+        <p>Invited talk by Dr. Jennifer Lippincott-Schwartz (Janelia,HHMI)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
