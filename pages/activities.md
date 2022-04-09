@@ -22,11 +22,20 @@ permalink           : "/activities/"
         <img src="{{ site.urlimg }}2021_outing_11.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
+</div><!-- /.row -->
+
+<div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}2021-08-outing.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
-</div><!-- /.row -->
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
 
 ## 2018
 
