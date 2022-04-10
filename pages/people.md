@@ -11,6 +11,7 @@ permalink           : "/people/"
 
 ## Current Members
 
+<br/>
 
 <div class="row">
   <div class="large-4 columns">
