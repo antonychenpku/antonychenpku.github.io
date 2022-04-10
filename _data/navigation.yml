@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: RESEARCH
-  url: "/research/"
-  side: left
+#- title: RESEARCH
+#  url: "/research/"
+#  side: left
 
 - title: PEOPLE
   url: "/people/"
@@ -16,6 +16,10 @@
 
 - title: NEWS
   url: "/news/"
+  side: left
+
+- title: "LAB ACTIVITIES"
+  url: "/activities/"
   side: left
 
 - title: "CONTACT US"
