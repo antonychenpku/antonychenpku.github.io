@@ -10,42 +10,7 @@ permalink           : "/people/"
 
 
 ## Current Members
-<!-- 
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="{{ site.urlimg }}members/qjs_picture.png" alt="uh, Placekitten">
-		
-            <h5 class="text-center">Jinshan Qin</h5>
-            <h6 class="text-center">Postdoctoral Fellow</h6>
-			
-		</li>
-  <li><img src="{{ site.urlimg }}members/msq_picture.png" alt="uh, Placekitten">
-		<p class="text-center">
-            <h5 class="text-center">Shiqi Mao</h5>
-            <h6 class="text-center">Ph.D. Candidate</h6>
-			
-		</p></li>
-  <li><img src="{{ site.urlimg }}members/yc_picture.png" alt="uh, Placekitten">
-		<p class="text-center">
-            <h5 class="text-center">Yachen Ying</h5>
-            <h6 class="text-center">Ph.D. Candidate</h6>
-			
-		</p></li>
-  <li><img src="{{ site.urlimg }}members/wrn_picture.png" alt="uh, Placekitten">
-		<p class="text-center">
-            <h5 class="text-center">Ruonan Wu</h5>
-            <h6 class="text-center">Ph.D. Candidate</h6>
-			
-		</p></li>
-  <li><img src="{{ site.urlimg }}members/lwb_picture.png" alt="uh, Placekitten">
-		<p class="text-center">
-            <h5 class="text-center">Weibang Luo</h5>
-            <h6 class="text-center">Ph.D. Candidate</h6>
-			
-		</p></li>
-  <li></li>
-</ul>-->
 
------
 
 <div class="row">
   <div class="large-4 columns">
