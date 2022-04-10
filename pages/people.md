@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : ""
+title               : "Lab Members"
 meta_title          : "CHENLAB"
 subheadline         : 
 teaser              : 
@@ -46,8 +46,34 @@ permalink           : "/people/"
 </ul>
 
 
+## Current Members
+
+-----
+
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/qjs_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Jinshan Qin</h3>
+<p>Postdoctoral Fellow</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>Ph.D. in Life Sciences, Peking University, 2020
+<br/>B.S. in 
+<br/>
+
+
+
+  </div>
+</div>
+
+-----
+
 
 ## Lab Alumni
+
+-----
 
 ##### Xiaotian Wu, Ph.D.
 ###### Dec. 2015 – Jun. 2021

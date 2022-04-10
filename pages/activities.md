@@ -1,6 +1,6 @@
 ---
 layout              : page-fullwidth
-title               : "Lab outings"
+title               : "Lab Outings"
 meta_title          : "CHENLAB"
 subheadline         : 
 teaser              : ""
