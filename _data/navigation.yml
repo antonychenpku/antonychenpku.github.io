@@ -6,7 +6,11 @@
 #  url: "/research/"
 #  side: left
 
-- title: PEOPLE
+- title: "ABOUT THE PI"
+  url: "/PI/"
+  side: left
+
+- title: "LAB MEMBERS"
   url: "/people/"
   side: left
 
@@ -18,7 +22,7 @@
   url: "/news/"
   side: left
 
-- title: "LAB ACTIVITIES"
+- title: ACTIVITIES
   url: "/activities/"
   side: left
 
