@@ -10,43 +10,40 @@ permalink           : "/people/"
 
 
 ## Current Members
-
+<!-- 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="{{ site.urlimg }}members/qjs_picture.png" alt="uh, Placekitten">
 		
             <h5 class="text-center">Jinshan Qin</h5>
             <h6 class="text-center">Postdoctoral Fellow</h6>
-			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+			
 		</li>
   <li><img src="{{ site.urlimg }}members/msq_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Shiqi Mao</h5>
             <h6 class="text-center">Ph.D. Candidate</h6>
-			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+			
 		</p></li>
   <li><img src="{{ site.urlimg }}members/yc_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Yachen Ying</h5>
             <h6 class="text-center">Ph.D. Candidate</h6>
-			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+			
 		</p></li>
   <li><img src="{{ site.urlimg }}members/wrn_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Ruonan Wu</h5>
             <h6 class="text-center">Ph.D. Candidate</h6>
-			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+			
 		</p></li>
   <li><img src="{{ site.urlimg }}members/lwb_picture.png" alt="uh, Placekitten">
 		<p class="text-center">
             <h5 class="text-center">Weibang Luo</h5>
             <h6 class="text-center">Ph.D. Candidate</h6>
-			<!-- /.This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a> -->
+			
 		</p></li>
-  <li><!-- Your content goes here --></li>
-</ul>
-
-
-## Current Members
+  <li></li>
+</ul>-->
 
 -----
 
@@ -69,6 +66,85 @@ permalink           : "/people/"
 </div>
 
 -----
+
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/msq_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Shiqi Mao</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2017
+<br/>
+<br/>
+
+
+
+  </div>
+</div>
+
+-----
+
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/yc_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Yachen Ying</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2019
+<br/>
+<br/>
+
+
+
+  </div>
+</div>
+
+-----
+
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/wrn_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Ruonan Wu</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2020
+<br/>
+<br/>
+
+
+
+  </div>
+</div>
+
+-----
+
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/lwb_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Weibang Luo</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2021
+<br/>
+<br/>
+
+
+
+  </div>
+</div>
+
 
 
 ## Lab Alumni
