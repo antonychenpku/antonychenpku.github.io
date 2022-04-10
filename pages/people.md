@@ -22,8 +22,8 @@ permalink           : "/people/"
             <h3>Jinshan Qin</h3>
 <p>Postdoctoral Fellow</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
-<br/>Ph.D. in Life Sciences, Peking University, 2020
-<br/>B.S. in 
+<br/>Ph.D. in Life Sciences & BIOPIC, Peking University, 2020
+<br/>B.S. in Life Sciences, Sichuan University, 2014
 <br/>
 
 
