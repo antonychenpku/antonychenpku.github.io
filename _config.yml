@@ -42,8 +42,8 @@ urlimg: 'https://antonychenpku.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo_front: "Chenlab_logo_front.png"
-logo: "Chenlab_logo_03.png"
+logo_front: "Chenlab_logo_front_new.png"
+logo: "Chenlab_logo_03_new.png"
 
 # Plugins
 plugins:
