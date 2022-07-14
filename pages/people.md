@@ -113,6 +113,26 @@ permalink           : "/people/"
 
 -----
 
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/sz_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Zhe Sun</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>M.S. in Life Sciences, Tianjin University, 2022
+<br/>B.S. in , 2019
+<br/>
+
+
+
+  </div>
+</div>
+
+-----
+
 ## Lab Alumni
 
 
