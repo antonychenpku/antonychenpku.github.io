@@ -42,7 +42,7 @@ permalink           : "/people/"
             <h3>Shiqi Mao</h3>
 <p>Ph.D. Candidate</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
-<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2017
+<br/>B.S. in Biomedical Engineering, Peking University, 2017
 <br/>
 <br/>
 
@@ -62,7 +62,7 @@ permalink           : "/people/"
             <h3>Yachen Ying</h3>
 <p>Ph.D. Candidate</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
-<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2019
+<br/>B.S. in Biomedical Engineering, Peking University, 2019
 <br/>
 <br/>
 
@@ -82,7 +82,7 @@ permalink           : "/people/"
             <h3>Ruonan Wu</h3>
 <p>Ph.D. Candidate</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
-<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2020
+<br/>B.S. in Biomedical Engineering, Peking University, 2020
 <br/>
 <br/>
 
@@ -102,7 +102,7 @@ permalink           : "/people/"
             <h3>Weibang Luo</h3>
 <p>Ph.D. Candidate</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
-<br/>B.S. in Biomedical Engineering, College of Engineering, Peking University, 2021
+<br/>B.S. in Biomedical Engineering, Peking University, 2021
 <br/>
 <br/>
 
@@ -123,7 +123,7 @@ permalink           : "/people/"
 <p>Ph.D. Candidate</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
 <br/>M.S. in Life Sciences, Tianjin University, 2022
-<br/>B.S. in , 2019
+<br/>B.S. in Food Science and Technology, Hebei Agricultural University, 2019
 <br/>
 
 
