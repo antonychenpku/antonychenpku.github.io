@@ -7,6 +7,25 @@ teaser              : ""
 permalink           : "/activities/"
 ---
 
+## 2022
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}2022-07-outing.jpg" alt="">
+        <p>Welcome Zhe Sun to join our lab!</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+
 ## 2021
 
 <div class="row t30">
