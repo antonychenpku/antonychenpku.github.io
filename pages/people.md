@@ -142,7 +142,7 @@ permalink           : "/people/"
 -----
 
 ##### Na Qu, Ph.D., 2021
-***Current Position:*** Zybio Inc.
+***Current Position:*** Beijing Naton Medical Group (Naton)
 
 -----
 
