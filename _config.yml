@@ -158,8 +158,8 @@ bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32                        : 'favicon_04_32x32.png'
-touch-icon-192x192                   : 'favicon_04_192x192.png'
+favicon-32x32                        : 'favicon_05_32x32.png'
+touch-icon-192x192                   : 'favicon_05_192x192.png'
 apple-touch-icon-180x180-precomposed : 'favicon_04_180x180.png'
 apple-touch-icon-152x152-precomposed : 'favicon_04_152x152.png'
 apple-touch-icon-144x144-precomposed : 'favicon_04_144x144.png'
@@ -167,7 +167,7 @@ apple-touch-icon-120x120-precomposed : 'favicon_04_120x120.png'
 apple-touch-icon-114x114-precomposed : 'favicon_04_114x114.png'
 apple-touch-icon-76x76-precomposed   : 'favicon_04_76x76.png'
 apple-touch-icon-72x72-precomposed   : 'favicon_04_72x72.png'
-apple-touch-icon-precomposed         : 'favicon_04_57x57.png'
+apple-touch-icon-precomposed         : 'favicon_05_57x57.png'
 msapplication_tileimage              : 'favicon_04_114x114.png'               # Size 144x144
 msapplication_tilecolor              : '#fabb00'
 
