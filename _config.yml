@@ -11,13 +11,13 @@
 title: 'CHENLAB'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Cellular and Molecular Imaging Laboratory'
+slogan: 'Laboratory of Nucleic Acid Nanotechnology and Single-Molecule Imaging'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '<p>Created by Yachen and Weibang with the JEKYLL theme »<a href="https://github.com/Phlow/feeling-responsive">Feeling Responsive</a>«.</p>'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: 'Copyright © Antony Chen Lab <br/> '
+credits: 'Copyright © Antony Chen Lab (北京大学陈匡时实验室)<br/> '
 
 # Main author of the website
 # See > authors.yml
