@@ -13,7 +13,7 @@ permalink           : "/publications/"
 32\. Wang, R., Chen, F., Chen, Q., Wan, X., Shi, M., Chen, A.K., Ma, Z., Li, G., Wang, M., Ying, Y., Liu Q, Li, H., Zhang X., Ma, J., Zhong, J., Chen, M., Zhang, M., Zhang, Y., Chen, Y., Zhu, D. MyoD is a 3D genome structure organizer for muscle cell identity. ***Nat Commun.*** 2022 Jan 11;13(1):205.
 
 
-31\. Qu, N., Ying, Y., Qin, S., and **Chen, A.K.\*** Rational design of self-assembled RNA nanostructures for HIV-1 virus assembly blockade. ***Nucleic Acids Res.*** 2021; gkab1282 
+31\. Qu, N., Ying, Y., Qin, J., and **Chen, A.K.\*** Rational design of self-assembled RNA nanostructures for HIV-1 virus assembly blockade. ***Nucleic Acids Res.*** 2021; gkab1282 
 
 
 30\. Mao, S., Ying, Y., Zhao, M., Yang, Y., and **Chen, A.K.\*** A Background Assessable and Correctable Bimolecular Fluorescence Complementation System for Nanoscopic Single-Molecule Imaging of Intracellular Protein-Protein Interactions. ***ACS Nano.*** 2021；15, 14338-14346. 
@@ -34,7 +34,7 @@ permalink           : "/publications/"
 25\. Ding, T., **Chen, A.K.\*** and Lu, Z.* The applications of nanopores in studies of proteins. ***Sci Bull***. 2019; 64, 1456-1467. (Review).
 
 
-24\. Wu, X., Mao, S., Yachen, Ying., Krueger, C.J. and **Chen, A.K.\*** Progress and Challenges for Live-Cell Imaging of Single Genomic Loci Using CRISPR-Based Platforms. ***Genomics, proteomics & bioinformatics.*** 2019; 17(2): 119-128.
+24\. Wu, X., Mao, S., Ying, Y., Krueger, C.J. and **Chen, A.K.\*** Progress and Challenges for Live-Cell Imaging of Single Genomic Loci Using CRISPR-Based Platforms. ***Genomics, proteomics & bioinformatics.*** 2019; 17(2): 119-128.
 
 
 23\. Yang, Y., Qu, N., Tan, J., Rushdi, M.N., Krueger, C.J. and **Chen, A.K.\*** Roles of Gag-RNA interactions in HIV-1 virus assembly deciphered by single-molecule localization microscopy. ***Proc Natl Acad Sci U S A.*** 2018; 115, 6721-6726.
