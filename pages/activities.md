@@ -7,6 +7,24 @@ teaser              : ""
 permalink           : "/activities/"
 ---
 
+## 2023
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}2023-07-outing.jpg" alt="">
+    
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
 ## 2022
 
 <div class="row t30">

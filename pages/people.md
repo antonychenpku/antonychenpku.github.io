@@ -135,6 +135,10 @@ permalink           : "/people/"
 
 ## Lab Alumni
 
+##### Shiqi Mao, Ph.D., 2023
+***Current Position:*** Huazhong University of Science and Technology
+
+-----
 
 ##### Xiaotian Wu, Ph.D., 2021
 ***Current Position:*** Canon Medical Systems (China) Co., Ltd.
