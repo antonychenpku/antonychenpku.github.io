@@ -141,7 +141,7 @@ permalink           : "/publications/"
 ## PATENTS
 <br/>
 
-* 陈匡时，马昭，毛诗琦，应亚宸。一种可有效识别假阳性信号的双分子荧光互补技术。中国发明专利，专利号：202110440775.0
+* 陈匡时，马昭，毛诗琦，应亚宸。一种可有效识别假阳性信号的双分子荧光互补技术。中国发明专利，专利号：202110440775
 
 * Andrew Tsourkas and Antony Chen. Quantitative Molecular Probes, 2007. US Application Number: 12/282.612; International Application Number: PCT/US07/064099.
 
