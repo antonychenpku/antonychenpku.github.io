@@ -16,7 +16,7 @@ permalink           : "/activities/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-       <img src="{{ site.urlimg }}2023-09-outing.jpg" alt="">
+       <img src="{{ site.urlimg }}2023-09-outing-1.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
