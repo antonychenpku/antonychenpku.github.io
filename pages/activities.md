@@ -17,6 +17,7 @@ permalink           : "/activities/"
 
     <div class="medium-4 columns">
        <img src="{{ site.urlimg }}2023-09-outing-1.jpg" alt="">
+       <p>Welcome Yating Jiao to join our lab!</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
