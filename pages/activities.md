@@ -21,7 +21,7 @@ permalink           : "/activities/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="" alt="">
+        <img src="{{ site.urlimg }}2023-12-outing.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
