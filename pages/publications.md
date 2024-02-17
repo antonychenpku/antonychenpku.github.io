@@ -10,7 +10,9 @@ permalink           : "/publications/"
 ## JOURNAL PUBLICATIONS
 <br/>
 
-32\. Wang, R., Chen, F., Chen, Q., Wan, X., Shi, M., **Chen, A.K.**, Ma, Z., Li, G., Wang, M., Ying, Y., Liu Q, Li, H., Zhang X., Ma, J., Zhong, J., Chen, M., Zhang, M., Zhang, Y., Chen, Y., Zhu, D. MyoD is a 3D genome structure organizer for muscle cell identity. ***Nat Commun.*** 2022 Jan 11;13(1):205.
+33\. Ying, Y., Yang, Y., and **Chen, A.K.\*** Roles of RNA scaffolding in nanoscale Gag multimerization and selective protein sorting at HIV membranes. ***Sci. Adv.*** 2024; (in press)
+
+32\. Wang, R., Chen, F., Chen, Q., Wan, X., Shi, M., **Chen, A.K.**, Ma, Z., Li, G., Wang, M., Ying, Y., Liu Q, Li, H., Zhang X., Ma, J., Zhong, J., Chen, M., Zhang, M., Zhang, Y., Chen, Y., Zhu, D. MyoD is a 3D genome structure organizer for muscle cell identity. ***Nat Commun.*** 2022; 13(1): 205.
 
 
 31\. Qu, N., Ying, Y., Qin, J., and **Chen, A.K.\*** Rational design of self-assembled RNA nanostructures for HIV-1 virus assembly blockade. ***Nucleic Acids Res.*** 2021; gkab1282 
