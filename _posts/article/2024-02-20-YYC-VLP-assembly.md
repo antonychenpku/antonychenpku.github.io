@@ -13,7 +13,7 @@ header: no
 image:
     title: 
     thumb: YYC-SciAdv-thumb.jpg
-    homepage: 
+    homepage: YYC-SA-homepage.jpg
     caption: 
     caption_url: 
 ---
