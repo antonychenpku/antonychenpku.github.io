@@ -10,6 +10,11 @@ permalink           : "/publications/"
 ## JOURNAL PUBLICATIONS
 <br/>
 
+34\. Ying, Y., Yang, Y., and **Chen, A.K.\*** Roles of RNA scaffolding in nanoscale Gag multimerization and selective protein sorting at HIV membranes. ***Sci. Adv.*** 2024 Feb 23;10(8):eadk8297.
+
+33\.Dong, J., Wu, X., Zhou, X., Gao, Y., Wang, C., Wang, W., He, W., Li, J., Deng, W., Liao, J., Wu, X., Lu, Y., **Chen, A.K.**, Wen, L., Fu, W., Tang, F. Spatially resolved expression landscape and gene-regulatory network of human gastric corpus epithelium. Protein Cell. 2023 Jun 7;14(6):433-447. 
+
+
 32\. Wang, R., Chen, F., Chen, Q., Wan, X., Shi, M., **Chen, A.K.**, Ma, Z., Li, G., Wang, M., Ying, Y., Liu Q, Li, H., Zhang X., Ma, J., Zhong, J., Chen, M., Zhang, M., Zhang, Y., Chen, Y., Zhu, D. MyoD is a 3D genome structure organizer for muscle cell identity. ***Nat Commun.*** 2022 Jan 11;13(1):205.
 
 
