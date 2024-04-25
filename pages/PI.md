@@ -22,7 +22,7 @@ permalink           : "/PI/"
 <br/><strong>Office address:</strong> Yingjie Overseas Exchange Center 338E
 <br/><strong>Lab address:</strong> Integrated Science Research Center 112
 <br/><strong>TEL:</strong> +86-10-62768343
-<br/><strong>Email:</strong> chenak@pku.edu.cn<br/>
+<br/><strong>Email:</strong> chenak@pku.edu.cn
 <br/>现任中国生物物理学会单分子生物学分会委员、中国遗传学会三维基因组学专业委员会委员。获得2023年拜耳学者奖。<br/>
 
 
