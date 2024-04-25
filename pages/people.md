@@ -133,6 +133,26 @@ permalink           : "/people/"
 
 -----
 
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/hj_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Jian Huang</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>M.S. in Life Science and Technology, China Pharmaceutical University, 2023
+<br/>B.S. in Pharmacy, Hubei University of Chinese Medicine, 2020
+<br/>
+
+
+
+  </div>
+</div>
+
+-----
+
 ## Lab Alumni
 
 ##### Shiqi Mao, Ph.D., 2023
