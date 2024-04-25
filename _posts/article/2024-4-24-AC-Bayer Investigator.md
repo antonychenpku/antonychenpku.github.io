@@ -11,7 +11,7 @@ tags:
 header: no
 image:
     title: 
-    thumb: YYC-SciAdv-thumb.jpg
+    thumb: Bayer investigator.jpg
     homepage: 
     caption: 
     caption_url: 
@@ -24,6 +24,6 @@ image:
 
 <img src="{{ site.urlimg }}Bayer investigator.jpg" alt="">
 
-See full-text: [https://www.science.org/doi/10.1126/sciadv.adk8297][1]
+See news at the website of Bayer: [https://www.bayer.com.cn/zh-hans/2023baierzhongguokeyanhezuojiangjiexiao][1]
 
-[1]: https://www.science.org/doi/10.1126/sciadv.adk8297
+[1]: https://www.bayer.com.cn/zh-hans/2023baierzhongguokeyanhezuojiangjiexiao
