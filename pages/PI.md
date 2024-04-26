@@ -33,7 +33,7 @@ permalink           : "/PI/"
 
 **Research Interests**
 
-DNA/RNA Nanotechnologies, Molecular Probes, Single-molecule Fluorescence Imaging, Live-cell Imaging, Cell Biology
+Nucleic acid nanotechnology, Single-molecule imaging, Biomolecular engineering, Virus-like particle-based RNA delivery/vaccine technologies
 
 **Education**
 
