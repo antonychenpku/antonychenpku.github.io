@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Genomic Labeling"
+subheadline:  ""Publication·Genomic Labeling"
 title:  "CRISPR/dual-FRET molecular beacon for sensitive live-cell imaging of non-repetitive genomic loci"
 teaser: "We have combined CRISPR and dual-FRET MBs to develop the CRISPR/dual-FRET MB system that can be used to measure the dynamics of non-repetitive regions of distinct genomic loci in the human genome with as few as three unique sgRNAs."
 categories:
