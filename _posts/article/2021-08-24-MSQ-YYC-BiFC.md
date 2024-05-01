@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Bimolecular Fluorescence Complementation"
+subheadline:  "Publication-Bimolecular Fluorescence Complementation"
 title:  "A Background Assessable and Correctable Bimolecular Fluorescence Complementation System for Nanoscopic Single-Molecule Imaging of Intracellular Protein–Protein Interactions"
 teaser: "We have developed Background Assessable and Correctable-BiFC (BAC-BiFC) that enables physiologically relevant characterization of specific PPIs at the nanoscopic level not attainable by conventional BiFC."
 categories:
