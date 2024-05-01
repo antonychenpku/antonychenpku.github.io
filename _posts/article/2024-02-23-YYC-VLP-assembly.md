@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "HIV Assembly"
+subheadline:  "Publication-HIV Assembly"
 title:  "Roles of RNA scaffolding in nanoscale Gag multimerization and selective protein sorting at HIV membranes"
 teaser: "Through systematic comparisons of the nanoscale organizations and dynamics of Gag expressed in the presence or the absence of gRNA (so that cellular RNAs become predominantly packaged), we provide evidence that Gag progresses through quite distinct pathways to multimerize around gRNA or cellular RNAs. We also demonstrated that the two processes may lead to different transmembrane protein compositions in HIV membranes."
 categories:
