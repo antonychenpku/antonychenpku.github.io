@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  ""Publication·Molecular Beacon Review"
+subheadline:  "Molecular Beacon Review"
 title:  "Recent Advances in the Molecular Beacon Technology for Live-Cell Single-Molecule Imaging"
 teaser: "In this review, emphasis is given to the progress made in advancing the MB technology toward live-cell single-molecule analysis."
 categories:

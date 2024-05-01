@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  ""Publication·Genomic Labeling Review"
+subheadline:  "Genomic Labeling Review"
 title:  "Progress and Challenges for Live-cell Imaging of Genomic Loci Using CRISPR-based Platforms"
 teaser: "In this review, we describe currently-available approaches for imaging single genomic loci in cells, with special focus on clustered regularly interspaced short palindromic repeats (CRISPR)-based imaging approaches."
 categories:

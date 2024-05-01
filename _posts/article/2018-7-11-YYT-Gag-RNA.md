@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  ""Publication·HIV Assembly"
+subheadline:  "HIV Assembly"
 title:  "Roles of Gag-RNA interactions in HIV-1 virus assembly deciphered by single-molecule localization microscopy"
 teaser: "In contrast to the general notion that vRNA only triggers Gag assembly and is dispensable for subsequent assembly, we found that vRNA is indispensable throughout assembly, scaffolding the formation of assembly intermediates and maintaining their architectures via balancing of external forces acting on the assembly environment. "
 categories:
