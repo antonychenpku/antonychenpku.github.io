@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Publication-RNA nanostructure"
+subheadline:  "Article-RNA nanostructure"
 title:  "Rational design of self-assembled RNA nanostructures for HIV-1 virus assembly blockade"
 teaser: " Here, we develop self-assembled RNA nanostructures that can inhibit HIV-1 virus assembly, achieved through hybridization of multiple artificial small RNAs with a stem–loop structure (STL) that we identify as a prominent ligand of Gag that can inhibit virus particle production via STL-Gag interactions."
 categories:

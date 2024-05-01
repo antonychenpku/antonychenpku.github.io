@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Genomic Labeling"
+subheadline:  "Article-Genomic Labeling"
 title:  "A CRISPR/molecular beacon hybrid system for live-cell genomic imaging"
 teaser: "We have developed a novel live-cell genomic imaging platform, termed CRISPR/MB, which comprises dCas9, an MB, and an sgRNA engineered with an MB target sequence in the stem–loop 2 region, and demonstrated its capacity for quantitative, dynamic and dual-color analysis of genomic loci in human cells."
 categories:
