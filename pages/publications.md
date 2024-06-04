@@ -146,6 +146,8 @@ permalink           : "/publications/"
 ## PATENTS
 <br/>
 
+* 陈匡时，吴若楠，秦金珊，应亚宸，杨艳涛。一种对单分子荧光共振能量转移信号进行分析的方法。中国发明专利，专利号：202110687125.6
+
 * 陈匡时，马昭，毛诗琦，应亚宸。一种可有效识别假阳性信号的双分子荧光互补技术。中国发明专利，专利号：202110440775
 
 * Andrew Tsourkas and Antony Chen. Quantitative Molecular Probes, 2007. US Application Number: 12/282.612; International Application Number: PCT/US07/064099.
