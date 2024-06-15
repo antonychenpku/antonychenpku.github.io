@@ -7,6 +7,25 @@ teaser              : ""
 permalink           : "/activities/"
 ---
 
+## 2024
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}2024-05-outing.jpg" alt="">
+        <p>Welcome Jian Huang to join our lab!</p>
+    
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+       <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
 ## 2023
 
 <div class="row t30">
