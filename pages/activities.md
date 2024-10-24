@@ -17,7 +17,8 @@ permalink           : "/activities/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-       <img src="" alt="">
+       <img src="{{ site.urlimg }}2024-10-outing.jpg" alt="">
+       <p>2024 Cell Symposia: Functional RNAs</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
