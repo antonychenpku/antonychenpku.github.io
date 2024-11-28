@@ -9,7 +9,7 @@ permalink           : "/contact/"
 
 
 
-<img src="{{ site.urlimg }}building_1008x567.jpg" alt="">
+<img src="{{ site.urlimg }}building2_1173x829.jpg" alt="">
 
 
 ### *Welcome to join us!*
