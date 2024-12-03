@@ -22,7 +22,8 @@ permalink           : "/activities/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="" alt="">
+        <img src="{{ site.urlimg }}2024-12-outing.jpg" alt="">
+        <p>Welcome Tongxu Ren to join our lab!</p>
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
