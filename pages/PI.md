@@ -38,7 +38,7 @@ Nucleic acid nanotechnology, Single-molecule imaging, Biomolecular engineering, 
 **Education**
 
 - 2004–2008 Ph.D.; University of Pennsylvania (in Biomedical Engineering)
-- 2000–2002 M.S.; University of California, San Diego (in Biomedical Engineering)
+- 2000–2002 M.S.; University of California, San Diego (in Biomedical Engineering)11
 - 1996–2000 B.S.; University of California, San Diego (in Biomedical Engineering)
 
 **Major Professional Experiences**
