@@ -12,8 +12,8 @@ tags:
 header: no
 image:
     title: 
-    thumb: 
-    homepage: 
+    thumb: MW_homepage.jpg
+    homepage: MW_thumb.jpg
     caption: 
     caption_url: 
 ---
