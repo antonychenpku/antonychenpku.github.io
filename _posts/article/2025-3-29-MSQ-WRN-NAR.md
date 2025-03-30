@@ -12,8 +12,8 @@ tags:
 header: no
 image:
     title: 
-    thumb: MW_homepage.jpg
-    homepage: MW_thumb.jpg
+    thumb: MW_thumb.jpg
+    homepage: MW_homepage.jpg
     caption: 
     caption_url: 
 ---
@@ -26,6 +26,6 @@ Clustered regularly interspaced short palindromic repeats (CRISPR)-based imaging
 
 See full-text: [https://doi.org/10.1093/nar/gkaf192][1]
 
-
+<img src="{{ site.urlimg }}MW_in_words.jpg" alt="">
 
 [1]: https://doi.org/10.1093/nar/gkaf192
