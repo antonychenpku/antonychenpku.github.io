@@ -10,7 +10,7 @@ permalink           : "/publications/"
 ## JOURNAL PUBLICATIONS
 <br/>
 
-35\. Mao, S., Wu, R., Luo, W., Qin, J., **Chen, A.K.\*** Spuriously transcribed RNAs from CRISPR-sgRNA expression plasmids scaffold biomolecular condensate formation and hamper accurate genomic imaging. ***Nucleic Acids Res.*** 2025; gkaf192
+35\. Mao, S., Wu, R., Luo, W., Qin, J., **Chen, A.K.\*** Spuriously transcribed RNAs from CRISPR-sgRNA expression plasmids scaffold biomolecular condensate formation and hamper accurate genomic imaging. ***Nucleic Acids Res.*** 2025; gkaf192.
 
 
 34\. Ying, Y., Yang, Y., and **Chen, A.K.\*** Roles of RNA scaffolding in nanoscale Gag multimerization and selective protein sorting at HIV membranes. ***Sci. Adv.*** 2024 Feb 23;10(8):eadk8297.
