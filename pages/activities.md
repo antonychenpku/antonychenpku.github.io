@@ -7,6 +7,18 @@ teaser              : ""
 permalink           : "/activities/"
 ---
 
+## 2025
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}yyc-db.jpg" alt="">
+        <p>Congratulations on the successful defense of Yachen Ying's doctoral dissertation!</p>
+    
+    </div><!-- /.medium-4.columns -->
+
+
+</div><!-- /.row -->
+
 ## 2024
 
 <div class="row t30">
