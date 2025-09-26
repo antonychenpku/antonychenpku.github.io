@@ -139,12 +139,13 @@ permalink           : "/people/"
 	</div>
 
   <div class="large-8 columns">
-            <h3>Tongxu Ren</h3>
+            <h3>Tongxu Re</h3>
 <p>Ph.D. Candidate</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
 <br/>B.S. in Cuiying Honors College, Lanzhou University, 2025
 <br/>
 <br/>
+
 
 
 
