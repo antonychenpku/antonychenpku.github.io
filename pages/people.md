@@ -139,13 +139,32 @@ permalink           : "/people/"
 	</div>
 
   <div class="large-8 columns">
-            <h3>Tongxu Re</h3>
+            <h3>Tongxu Ren</h3>
 <p>Ph.D. Candidate</p>
 <br/>Department of Biomedical Engineering, College of Future Technology
 <br/>B.S. in Cuiying Honors College, Lanzhou University, 2025
 <br/>
 <br/>
 
+
+
+  </div>
+</div>
+
+-----
+
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/wzx_picture.png" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Zixiang Wu</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>B.S. in School of Chemical Engineering, Sichuan University, 2025
+<br/>
+<br/>
 
 
 
@@ -156,6 +175,9 @@ permalink           : "/people/"
 
 
 ## Lab Alumni
+
+##### Yachen Ying, Ph.D., 2025
+***Current Position:*** Hangzhou Institute of Medicine, CAS
 
 ##### Shiqi Mao, Ph.D., 2023
 ***Current Position:*** Huazhong University of Science and Technology
