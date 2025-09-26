@@ -179,6 +179,8 @@ permalink           : "/people/"
 ##### Yachen Ying, Ph.D., 2025
 ***Current Position:*** Hangzhou Institute of Medicine, CAS
 
+-----
+
 ##### Shiqi Mao, Ph.D., 2023
 ***Current Position:*** Huazhong University of Science and Technology
 
