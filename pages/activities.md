@@ -31,11 +31,19 @@ permalink           : "/activities/"
        <p>2025 end of the year party </p>
     </div><!-- /.medium-4.columns -->
 
-      <div class="medium-4 columns">
+<div class="row t30">
+    <div class="medium-4 columns">
        <img src="{{ site.urlimg }}2025pt4.jpg" alt="">
        <p>2025 end of the year party </p>
     </div><!-- /.medium-4.columns -->
 
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
 
