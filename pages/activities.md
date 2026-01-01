@@ -17,7 +17,7 @@ permalink           : "/activities/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-       <img src="{{ site.urlimg }}2025pt1.jpg" alt="">
+       <img src="{{ site.urlimg }}2025pt3.jpg" alt="">
        <p>2025 end of the year party </p>
     </div><!-- /.medium-4.columns -->
         
@@ -30,7 +30,7 @@ permalink           : "/activities/"
 
 <div class="row t30">
     <div class="medium-4 columns">
-       <img src="{{ site.urlimg }}2025pt3.jpg" alt="">
+       <img src="{{ site.urlimg }}2025pt1.jpg" alt="">
        <p>2025 end of the year party </p>
    
     </div><!-- /.medium-4.columns -->
