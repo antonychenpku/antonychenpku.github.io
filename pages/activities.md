@@ -7,6 +7,46 @@ teaser              : ""
 permalink           : "/activities/"
 ---
 
+## 2025
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}yyc-db.jpg" alt="">
+        <p>Congratulations on the successful defense of Yachen Ying's doctoral dissertation!</p>
+    
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+       <img src="{{ site.urlimg }}2025pt3.jpg" alt="">
+       <p>2025 end of the year party </p>
+    </div><!-- /.medium-4.columns -->
+        
+      <div class="medium-4 columns">
+       <img src="{{ site.urlimg }}2025pt2.jpg" alt="">
+       <p>2025 end of the year party </p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+     
+
+<div class="row t30">
+    <div class="medium-4 columns">
+       <img src="{{ site.urlimg }}2025pt1.jpg" alt="">
+       <p>2025 end of the year party </p>
+   
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+       <img src="{{ site.urlimg }}2025pt4.jpg" alt="">
+       <p>2025 end of the year party </p>
+    </div><!-- /.medium-4.columns -->
+
+
+    <div class="medium-4 columns">
+        <img src="" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
 ## 2024
 
 <div class="row t30">
