@@ -7,6 +7,8 @@ teaser              : ""
 permalink           : "/activities/"
 ---
 
+
+
 ## 2025
 
 <div class="row t30">
