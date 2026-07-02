@@ -1,0 +1,20 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+A_K_Chen: # replace this with your info
+  name: "Antony K. Chen"
+  siterole: "Principal Investigator of CHENLAB"
+  email: chenak@pku.edu.cn
+Y_Ying: # replace this with your info
+  name: "Yachen Ying"
+  siterole: "webmaster, PhD candidate"
+  email: yingyachen@pku.edu.cn
+W_Luo: # replace this with your info
+  name: "Weibang Luo"
+  siterole: "webmaster, PhD candidate"
+  email: luoweibang@pku.edu.cn
+# you can add more authors here
