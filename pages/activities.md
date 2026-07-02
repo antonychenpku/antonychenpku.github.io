@@ -23,6 +23,7 @@ permalink           : "/activities/"
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
+
 ## 2025
 
 <div class="row t30">
