@@ -8,6 +8,20 @@ permalink           : "/activities/"
 ---
 
 
+## 2026
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}wrn-db.jpg" alt="">
+        <p>Congratulations on the successful defense of Ruonan Wu's doctoral dissertation!</p>
+    
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+       <img src="{{ site.urlimg }}2026-06-outing.jpg" alt="">
+       <p>2026 summer party </p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
 
 ## 2025
 
