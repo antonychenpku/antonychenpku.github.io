@@ -35,26 +35,6 @@ permalink           : "/people/"
 
 <div class="row">
   <div class="large-4 columns">
-		<img src="{{ site.urlimg }}members/wrn_picture.png" alt="">
-	</div>
-
-  <div class="large-8 columns">
-            <h3>Ruonan Wu</h3>
-<p>Ph.D. Candidate</p>
-<br/>Department of Biomedical Engineering, College of Future Technology
-<br/>B.S. in Biomedical Engineering, Peking University, 2020
-<br/>
-<br/>
-
-
-
-  </div>
-</div>
-
------
-
-<div class="row">
-  <div class="large-4 columns">
 		<img src="{{ site.urlimg }}members/lwb_picture.png" alt="">
 	</div>
 
