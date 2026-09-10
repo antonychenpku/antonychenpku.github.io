@@ -135,7 +135,7 @@ permalink           : "/people/"
 
 <div class="row">
   <div class="large-4 columns">
-		<img src="{{ site.urlimg }}members/ljt_picture111.jpg" alt="">
+		<img src="{{ site.urlimg }}members/ljt_picture.jpg" alt="">
 	</div>
 
   <div class="large-8 columns">
