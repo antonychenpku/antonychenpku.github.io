@@ -133,6 +133,25 @@ permalink           : "/people/"
 
 -----
 
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/ljt_picture.jpg" alt="">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Juntong Li</h3>
+<p>Ph.D. Candidate</p>
+<br/>Department of Biomedical Engineering, College of Future Technology
+<br/>B.S. in Pharmacy, Xiamen University, 2026
+<br/>
+<br/>
+
+
+
+  </div>
+</div>
+
+-----
 
 ## Lab Alumni
 
