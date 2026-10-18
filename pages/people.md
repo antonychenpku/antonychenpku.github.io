@@ -150,7 +150,25 @@ permalink           : "/people/"
 
   </div>
 </div>
+-----
 
+<div class="row">
+  <div class="large-4 columns">
+		<img src="{{ site.urlimg }}members/cc_picture.jpg" alt="" style="width:200px; height:200px; object-fit:cover; display:block;">
+	</div>
+
+  <div class="large-8 columns">
+            <h3>Can Cui</h3>
+<p>Senior student</p>
+<br/>Department of Biomedical Engineering, College of Engineering
+<br/>B.S. in Biomedical Engineering, Peking University, 2027
+<br/>
+<br/>
+
+
+
+  </div>
+</div>
 -----
 
 ## Lab Alumni
