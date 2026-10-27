@@ -19,6 +19,11 @@ permalink           : "/activities/"
        <p>2026 spring team lunch </p>
     </div><!-- /.medium-4.columns -->
         
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}2026_dinner.jpg" alt="">
+        <p>Welcome Juntong Li & Can Cui to join our lab!</p>
+    
+
 </div><!-- /.row -->
 
 ## 2025
